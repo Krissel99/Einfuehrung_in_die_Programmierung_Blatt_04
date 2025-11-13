@@ -1,0 +1,25 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <CsvCodeStyleSettings>
+      <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+      <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+      <option name="TABULARIZE" value="true" />
+      <option name="ENABLE_WIDE_CHARACTER_DETECTION" value="true" />
+    </CsvCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <Latex>
+      <option name="INDENT_DOCUMENT_ENVIRONMENT" value="false" />
+    </Latex>
+    <codeStyleSettings language="JAVA">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Latex">
+      <option name="WRAP_ON_TYPING" value="1" />
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
