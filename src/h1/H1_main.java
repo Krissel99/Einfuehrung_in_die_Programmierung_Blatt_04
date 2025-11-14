@@ -23,7 +23,7 @@ public class H1_main {
                 price = 4;
         }
         ;
-        System.out.println("Dein Ticket kostet " + price + " €");
+        System.out.println("Dein Ticket kostet " + price + "€");
     }
 }
 
