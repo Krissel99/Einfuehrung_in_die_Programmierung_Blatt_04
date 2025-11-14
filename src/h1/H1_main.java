@@ -2,9 +2,8 @@ package h1;
 
 public class H1_main {
     public static void main(String[] args) {
-
-        int zone = 3;
-        double price = 1.5;
+        int zone = 60;
+        double price = 7;
 
         price = 2.00;
         switch (zone) {
@@ -19,10 +18,10 @@ public class H1_main {
                 break;
             case 5:
                 price += 0.70;
+                break;
             default:
                 price = 4;
         }
-        ;
         System.out.println("Dein Ticket kostet " + price + "€");
     }
 }
